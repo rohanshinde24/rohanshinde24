@@ -12,7 +12,7 @@
 - 🎓 I’m completing an **M.S. in Computer Science at USC** in December 2026.
 - 🔭 I’m currently working on **agentic systems and developer infrastructure**.
 - 🌱 I’m learning more about **iOS development, MCP servers, and production RAG systems**.
-- 💬 Ask me about **LLMs, distributed systems, dogs, or kebabs** — I have strong opinions on all four.
+- 💬 Ask me about **LLMs, distributed systems, dogs, or kebabs**. I have strong opinions on all four.
 - 🎯 I’m looking for **new-grad software engineering roles** in backend, platform, infrastructure, and AI systems.
 
 ## Languages and Tools
@@ -87,6 +87,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" title="Kubernetes" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" title="Postman" width="40" height="40" />
+</p>
+
+### Observability
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" alt="Grafana" title="Grafana" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opentelemetry/opentelemetry-original.svg" alt="OpenTelemetry" title="OpenTelemetry" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" alt="Prometheus" title="Prometheus" width="40" height="40" />
+</p>
+
+### AI-Assisted Development
+
+<p>
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
 </p>
 
 <p>
