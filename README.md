@@ -8,10 +8,6 @@
   <a href="mailto:rohanshi@usc.edu">Email</a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rohanshinde24&label=Profile%20views&color=0e75b6&style=flat" alt="Rohan's profile views" />
-</p>
-
 - 💼 Most recently, I was a **Software Development Engineer Intern at Amazon**, building production fulfillment tooling with Java and AWS.
 - 🎓 I’m completing an **M.S. in Computer Science at USC** in December 2026.
 - 🔭 I’m currently working on **agentic systems and developer infrastructure**.
