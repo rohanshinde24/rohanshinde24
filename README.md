@@ -106,6 +106,16 @@
   <img src="https://img.shields.io/badge/OpenClaw-1F6FEB?style=for-the-badge" alt="OpenClaw" />
 </p>
 
+### Agentic Systems
+
+<p>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/LLM_Evaluation-6C5CE7?style=for-the-badge" alt="LLM Evaluation" />
+  <img src="https://img.shields.io/badge/MCP-2F6FEB?style=for-the-badge" alt="Model Context Protocol" />
+  <img src="https://img.shields.io/badge/Structured_Outputs-0F766E?style=for-the-badge" alt="Structured Outputs" />
+  <img src="https://img.shields.io/badge/Tool_Calling-8B5CF6?style=for-the-badge" alt="Tool Calling" />
+</p>
+
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rohanshinde24&show_icons=true&locale=en&layout=compact" alt="Rohan's most-used GitHub languages" />
 </p>
