@@ -12,7 +12,7 @@
 - 🎓 I’m completing an **M.S. in Computer Science at USC** in December 2026.
 - 🔭 I’m currently working on **agentic systems and developer infrastructure**.
 - 🌱 I’m learning more about **iOS development, MCP servers, and production RAG systems**.
-- 💬 Ask me about **LLMs, distributed systems, full-stack development, dogs, or kebabs**.
+- 💬 Ask me about **LLMs, distributed systems, dogs, or kebabs** — I have strong opinions on all four.
 - 🎯 I’m looking for **new-grad software engineering roles** in backend, platform, infrastructure, and AI systems.
 
 ## Languages and Tools
